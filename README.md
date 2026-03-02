@@ -1,5 +1,6 @@
-# wireshark-network-traffic-analysis
-Packet capture analysis in Wireshark: TCP retransmissions, ARP spoofing indicators, DNS anomalies, and FTP stream reconstruction.
+# Wireshark Network Traffic Analysis & Protocol Investigation
+Packet capture analysis performed in Wireshark to identify network performance issues and security indicators across TCP, ARP, DNS, and FTP traffic.
+
 ## Tools
 - Wireshark
 - TCP/IP, DNS, ARP, FTP protocol analysis
